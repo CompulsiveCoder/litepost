@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "litepost.WWW", "litepost.WWW\litepost.WWW.csproj", "{8500BBEA-4F4D-44F3-94FD-4695646B95A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "litepost", "litepost\litepost.csproj", "{CFB026B1-51EF-4F11-8510-BDBF5DE030D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8500BBEA-4F4D-44F3-94FD-4695646B95A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8500BBEA-4F4D-44F3-94FD-4695646B95A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8500BBEA-4F4D-44F3-94FD-4695646B95A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8500BBEA-4F4D-44F3-94FD-4695646B95A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB026B1-51EF-4F11-8510-BDBF5DE030D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB026B1-51EF-4F11-8510-BDBF5DE030D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB026B1-51EF-4F11-8510-BDBF5DE030D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB026B1-51EF-4F11-8510-BDBF5DE030D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
